@@ -1,5 +1,9 @@
 # ventura.algorithms
 
+![MIT](https://img.shields.io/github/license/chamseddinehiddoud/ventura.algorithms)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.algorithms)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.algorithms)
+
 Versão **Ventura** do clássico *javascript-algorithms* — coleção curada de
 algoritmos e estruturas de dados, com explicações práticas e uma skill de
 replay determinístico para aplicar padrões sem reinventar a roda.
