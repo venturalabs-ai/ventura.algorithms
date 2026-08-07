@@ -1,5 +1,9 @@
 # Skill: ventura.algorithms — LOOP Skill Engine / Deterministic Replay
 
+![MIT](https://img.shields.io/github/license/chamseddinehiddoud/ventura.algorithms)
+![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.algorithms)
+![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.algorithms)
+
 Skill de resolução de problemas com algoritmos e estruturas de dados usando
 **execução determinística**: explore o problema uma vez, compile o padrão,
 replique em variações com ~zero tokens, regenere quando o padrão não servir.
