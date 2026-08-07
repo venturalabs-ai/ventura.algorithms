@@ -1,52 +1,42 @@
 # ventura.algorithms
 
-![MIT](https://img.shields.io/github/license/chamseddinehiddoud/ventura.algorithms)
-![stars](https://img.shields.io/github/stars/chamseddinehiddoud/ventura.algorithms)
-![forks](https://img.shields.io/github/forks/chamseddinehiddoud/ventura.algorithms)
+![Status](https://img.shields.io/badge/status-curation%20%2B%20skill-blueviolet)
+![License](https://img.shields.io/github/license/venturalabs-ai/ventura.algorithms)
+![Stars](https://img.shields.io/github/stars/venturalabs-ai/ventura.algorithms)
 
-Versão **Ventura** do clássico *javascript-algorithms* — coleção curada de
-algoritmos e estruturas de dados, com explicações práticas e uma skill de
-replay determinístico para aplicar padrões sem reinventar a roda.
+**Curadoria original de algoritmos, estruturas de dados e padrões de resolução com replay determinístico.**
 
-> **Curadoria original** — este repositório organiza algoritmos e padrões de
-> forma própria; as implementações de referência vivem no projeto original
-> (javascript-algorithms).
+## Classificação
 
-## O que é
+**Curation / Skill Repository.** Este projeto não é um fork oficial nem substitui implementações de referência. Ele organiza conceitos e um método próprio de estudo e aplicação.
 
-Uma biblioteca de estudo e consulta: cada categoria traz o conceito, a
-complexidade esperada, quando usar e um padrão de solução. A skill `SKILL.md`
-transforma a resolução de problemas em processo determinístico.
+## Referência upstream
 
-## Categorias curadas
+Inspirado pelo ecossistema educacional de projetos como `javascript-algorithms`. Consulte o projeto original para implementações completas e histórico upstream.
 
-| Categoria | Exemplos | Quando usar |
-|---|---|---|
-| **Estruturas de dados** | listas, filas, pilhas, árvores, grafos, hash | organizar e acessar dados com eficiência |
-| **Ordenação** | bubble, insertion, quick, merge, heap | organizar coleções |
-| **Busca** | linear, binária, profundidade, largura | localizar elementos |
-| **Grafos** | Dijkstra, A*, fluxo, ciclos | caminhos, redes, dependências |
-| **Programação dinâmica** | memoização, tabulação | otimizar subproblemas sobrepostos |
-| **Guloso** | seleção, mochila, intervalos | decisões locais ótimas |
-| **Retrocesso** | permutações, combinações, N-rainhas | explorar espaço de soluções |
-| **Matemática** | primalidade, MDC, potência, Fibonacci | problemas numéricos |
+## Escopo
 
-## Princípios de estudo
+- estruturas de dados;
+- ordenação e busca;
+- grafos;
+- programação dinâmica;
+- algoritmos gulosos;
+- backtracking;
+- fundamentos matemáticos;
+- análise de complexidade.
 
-1. **Entenda antes de decorar** — domine o porquê, depois o código.
-2. **Meça a complexidade** — tempo e espaço em notação Big-O.
-3. **Conheça quando usar** — cada padrão resolve uma família de problemas.
-4. **Pratique com variações** — o mesmo padrão em problemas diferentes.
+## Método Ventura
 
-## Como usar (com a skill)
+`EXPLORE → COMPILE → REPLAY → REGENERATE`
 
-```text
-1. Modo EXPLORE  — entenda o problema e mapeie o padrão (uma vez)
-2. Modo COMPILE  — registre a solução em padrao.md (tipo, passos, complexidade)
-3. Modo REPLAY   — aplique o padrão a variações sem raciocinar do zero
-4. Modo REGENERATE — problema novo sem padrão → explore e compile de novo
-```
+A skill do repositório transforma padrões já compreendidos em receitas reutilizáveis para reduzir retrabalho.
+
+## Limites
+
+- material de estudo/curadoria, não biblioteca de produção;
+- exemplos e padrões devem ser validados antes de uso crítico;
+- atribuições e licenças de fontes externas devem ser respeitadas.
 
 ## Licença
 
-MIT License — Copyright (c) 2026 Wemerson Mota de Oliveira.
+Consulte [LICENSE](LICENSE).
