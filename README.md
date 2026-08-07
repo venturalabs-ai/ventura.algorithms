@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/venturalabs-ai/ventura.algorithms)
 ![Stars](https://img.shields.io/github/stars/venturalabs-ai/ventura.algorithms)
 
-**Curadoria original de algoritmos, estruturas de dados e padrões de resolução com replay determinístico.**
+**Curadoria original de algoritmos, estruturas de dados e padrões de resolução com workflow reproduzível.**
 
 ## Classificação
 
@@ -27,9 +27,9 @@ Inspirado pelo ecossistema educacional de projetos como `javascript-algorithms`.
 
 ## Método Ventura
 
-`EXPLORE → COMPILE → REPLAY → REGENERATE`
+`EXPLORE → COMPILE → CONSTRAINED REPLAY → REGENERATE`
 
-A skill do repositório transforma padrões já compreendidos em receitas reutilizáveis para reduzir retrabalho.
+A skill transforma padrões já compreendidos em receitas reutilizáveis para reduzir retrabalho. Quando houver uso de IA, o resultado deve ser validado e não é tratado como determinístico.
 
 ## Limites
 
