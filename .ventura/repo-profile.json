@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "repository_role": "optimizer",
+  "autonomy": "guarded",
+  "budget_profile": "normal",
+  "context": {"strategy": "semantic_ast", "max_files": 20, "max_chars": 28000},
+  "routing": {"enabled": true, "champion_challenger": true},
+  "validation": {"required": ["curation-health", "autonomy-gate", "security-baseline"]},
+  "security": {"hard_gates": ["delete_repository", "force_push", "change_secrets", "reduce_security", "destructive_deployment", "budget_override", "irreversible_financial_action"]}
+}
