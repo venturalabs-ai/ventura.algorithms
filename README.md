@@ -1,42 +1,38 @@
-# ventura.algorithms
+# 📄 README Template Padrão
 
-![Status](https://img.shields.io/badge/status-curation%20%2B%20skill-blueviolet)
-![License](https://img.shields.io/github/license/venturalabs-ai/ventura.algorithms)
-![Stars](https://img.shields.io/github/stars/venturalabs-ai/ventura.algorithms)
+## Preencher conforme o repositório
 
-**Curadoria original de algoritmos, estruturas de dados e padrões de resolução com workflow reproduzível.**
+# Nome do Repositório
 
-## Classificação
+> **Descrição curta do que este repositório faz**
 
-**Curation / Skill Repository.** Este projeto não é um fork oficial nem substitui implementações de referência. Ele organiza conceitos e um método próprio de estudo e aplicação.
+## 🛠 Tecnologias
 
-## Referência upstream
+- Linguagem: [Python/TypeScript/Etc.]
+- Framework: [Nome do framework]
+- Ferramentas: [Ferramentas usadas]
 
-Inspirado pelo ecossistema educacional de projetos como `javascript-algorithms`. Consulte o projeto original para implementações completas e histórico upstream.
+## 🚀 Quick Start
 
-## Escopo
+```bash
+# Instruções de setup
+git clone https://github.com/venturalabs-ai/[repo-name].git
+cd [repo-name]
+# Comandos de instalação
+```
 
-- estruturas de dados;
-- ordenação e busca;
-- grafos;
-- programação dinâmica;
-- algoritmos gulosos;
-- backtracking;
-- fundamentos matemáticos;
-- análise de complexidade.
+## 📦 Licença
 
-## Método Ventura
+[MIT License](LICENSE)
 
-`EXPLORE → COMPILE → CONSTRAINED REPLAY → REGENERATE`
+## 🤝 Como Contribuir
 
-A skill transforma padrões já compreendidos em receitas reutilizáveis para reduzir retrabalho. Quando houver uso de IA, o resultado deve ser validado e não é tratado como determinístico.
+1. Fork o repositório
+2. Crie uma branch (`git checkout -b feature/nova-funcionalidade`)
+3. Commit suas mudanças (`git commit -m 'feat: adicionar nova funcionalidade'`)
+4. Push para a branch (`git push origin feature/nova-funcionalidade`)
+5. Abra um Pull Request
 
-## Limites
+## 📞 Contato
 
-- material de estudo/curadoria, não biblioteca de produção;
-- exemplos e padrões devem ser validados antes de uso crítico;
-- atribuições e licenças de fontes externas devem ser respeitadas.
-
-## Licença
-
-Consulte [LICENSE](LICENSE).
+- GitHub: [@venturalabs-ai](https://github.com/venturalabs-ai)
